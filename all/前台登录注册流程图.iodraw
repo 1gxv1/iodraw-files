@@ -45,10 +45,10 @@
             <mxPoint x="213" y="170" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="otWCKnDGwtSYOVDqnlZQ-213" value="" style="endArrow=classic;html=1;strokeColor=#000000;strokeWidth=2;fontSize=17;fontColor=#000000;entryX=0.514;entryY=0.005;entryPerimeter=0;" parent="1" target="otWCKnDGwtSYOVDqnlZQ-219" edge="1">
+        <mxCell id="otWCKnDGwtSYOVDqnlZQ-213" value="" style="endArrow=classic;html=1;strokeColor=#000000;strokeWidth=2;fontSize=17;fontColor=#000000;entryX=0.514;entryY=0.005;entryPerimeter=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="518" y="306" as="sourcePoint" />
-            <mxPoint x="518" y="352" as="targetPoint" />
+            <mxPoint x="518.3800000000001" y="355.345" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="otWCKnDGwtSYOVDqnlZQ-214" value="" style="endArrow=classic;html=1;strokeColor=#000000;strokeWidth=2;fontSize=17;fontColor=#000000;" parent="1" edge="1">
@@ -73,15 +73,6 @@
             <mxPoint x="208" y="551.4315363319174" as="sourcePoint" />
             <mxPoint x="208" y="592" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="otWCKnDGwtSYOVDqnlZQ-217" value="注册界面" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=3;fillColor=#ffffff;fontSize=17;fontColor=#000000;" parent="1" vertex="1">
-          <mxGeometry x="454" y="171" width="119" height="45" as="geometry" />
-        </mxCell>
-        <mxCell id="otWCKnDGwtSYOVDqnlZQ-218" value="输入注册信息" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=3;fillColor=#ffffff;fontSize=17;fontColor=#000000;" parent="1" vertex="1">
-          <mxGeometry x="433" y="256" width="156" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="otWCKnDGwtSYOVDqnlZQ-219" value="是否已存在&lt;div&gt;（用户名，邮箱）&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=0;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=3;fillColor=#ffffff;fontSize=17;fontColor=#000000;" parent="1" vertex="1">
-          <mxGeometry x="431" y="355" width="170" height="69" as="geometry" />
         </mxCell>
         <mxCell id="otWCKnDGwtSYOVDqnlZQ-220" value="输入邮箱验证码" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=3;fillColor=#ffffff;fontSize=17;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="432" y="476" width="167" height="40" as="geometry" />
@@ -133,19 +124,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="otWCKnDGwtSYOVDqnlZQ-231" value="" style="endArrow=none;html=1;strokeColor=#000000;strokeWidth=2;fontSize=17;fontColor=#000000;edgeStyle=orthogonalEdgeStyle;" parent="1" edge="1">
+        <mxCell id="otWCKnDGwtSYOVDqnlZQ-232" value="" style="endArrow=none;html=1;strokeColor=#000000;strokeWidth=2;fontSize=17;fontColor=#000000;exitX=0;exitY=0.455;exitPerimeter=0;edgeStyle=orthogonalEdgeStyle;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="517" y="232" as="sourcePoint" />
-            <mxPoint x="606" y="600" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="624" y="232" />
-              <mxPoint x="624" y="600" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="otWCKnDGwtSYOVDqnlZQ-232" value="" style="endArrow=none;html=1;strokeColor=#000000;strokeWidth=2;fontSize=17;fontColor=#000000;exitX=0;exitY=0.455;exitPerimeter=0;edgeStyle=orthogonalEdgeStyle;" parent="1" source="otWCKnDGwtSYOVDqnlZQ-219" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="338" y="426" as="sourcePoint" />
+            <mxPoint x="431" y="386.395" as="sourcePoint" />
             <mxPoint x="514" y="231" as="targetPoint" />
             <Array as="points">
               <mxPoint x="431" y="393" />
