@@ -67,7 +67,7 @@
         <mxCell id="ELuROfRh7jPEYIWg2EeA-828" value="3.10-3.18" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=21.77;notch=20.32;strokeWidth=3;fontSize=18;" parent="1" vertex="1">
           <mxGeometry x="194" y="212" width="160" height="43" as="geometry" />
         </mxCell>
-        <mxCell id="ELuROfRh7jPEYIWg2EeA-829" value="3.5-3.9" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=21.77;notch=20.32;strokeWidth=3;fontSize=18;" parent="1" vertex="1">
+        <mxCell id="ELuROfRh7jPEYIWg2EeA-829" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=21.77;notch=20.32;strokeWidth=3;fontSize=18;" parent="1" vertex="1">
           <mxGeometry x="44.5" y="212" width="160" height="43" as="geometry" />
         </mxCell>
         <mxCell id="ELuROfRh7jPEYIWg2EeA-830" value="用户输入&lt;br&gt;隐含输表达式" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=3;fontSize=14;align=center;arcSize=3;" parent="1" vertex="1">
@@ -77,7 +77,7 @@
           <mxGeometry x="201" y="300" width="130" height="110" as="geometry" />
         </mxCell>
         <mxCell id="ELuROfRh7jPEYIWg2EeA-832" value="1.数据确认同步&lt;br&gt;&lt;br&gt;2.将服务器断网&lt;br&gt;&lt;br&gt;3.密码批量重置" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=3;fontSize=14;align=center;arcSize=3;" parent="1" vertex="1">
-          <mxGeometry x="352" y="300" width="130" height="210" as="geometry" />
+          <mxGeometry x="352" y="300" width="130" height="110" as="geometry" />
         </mxCell>
         <mxCell id="ELuROfRh7jPEYIWg2EeA-833" value="1.邮件模板设置&lt;br&gt;&lt;br&gt;2.发送快捷方式&lt;br&gt;&lt;br&gt;3.公司邮件公告" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=3;fontSize=14;align=center;arcSize=3;" parent="1" vertex="1">
           <mxGeometry x="503" y="300" width="130" height="210" as="geometry" />
