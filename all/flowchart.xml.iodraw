@@ -4,57 +4,57 @@
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
-        <mxCell id="-TFDSmFTn0LMYcN3655R-0" value="输入: 三角面网格" style="whiteSpace=wrap;strokeWidth=2;fontStyle=1" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="-TFDSmFTn0LMYcN3655R-0" value="输入: 三角面网格" style="whiteSpace=wrap;strokeWidth=2;fontStyle=1;labelBackgroundColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="295" y="250" width="180" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="-TFDSmFTn0LMYcN3655R-1" value="计算顶点平均曲率hi" style="whiteSpace=wrap;strokeWidth=2;fontStyle=1" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="-TFDSmFTn0LMYcN3655R-1" value="计算顶点平均曲率hi" style="whiteSpace=wrap;strokeWidth=2;fontStyle=1;labelBackgroundColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="285" y="340" width="200" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="-TFDSmFTn0LMYcN3655R-2" value="曲率hi&gt;c?" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontStyle=1" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="-TFDSmFTn0LMYcN3655R-2" value="曲率hi&gt;c?" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontStyle=1;labelBackgroundColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="329" y="430" width="113" height="113" as="geometry" />
         </mxCell>
-        <mxCell id="-TFDSmFTn0LMYcN3655R-3" value="保留顶点" style="whiteSpace=wrap;strokeWidth=2;fontStyle=1" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="-TFDSmFTn0LMYcN3655R-3" value="保留顶点" style="whiteSpace=wrap;strokeWidth=2;fontStyle=1;labelBackgroundColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="240" y="616" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="-TFDSmFTn0LMYcN3655R-4" value="移除顶点" style="whiteSpace=wrap;strokeWidth=2;fontStyle=1" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="-TFDSmFTn0LMYcN3655R-4" value="移除顶点" style="whiteSpace=wrap;strokeWidth=2;fontStyle=1;labelBackgroundColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="410" y="616" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="-TFDSmFTn0LMYcN3655R-5" value="空洞三角化" style="whiteSpace=wrap;strokeWidth=2;fontStyle=1" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="-TFDSmFTn0LMYcN3655R-5" value="空洞三角化" style="whiteSpace=wrap;strokeWidth=2;fontStyle=1;labelBackgroundColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="410" y="706" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="-TFDSmFTn0LMYcN3655R-6" value="输出: 简化曲面" style="whiteSpace=wrap;strokeWidth=2;fontStyle=1" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="-TFDSmFTn0LMYcN3655R-6" value="输出: 简化曲面" style="whiteSpace=wrap;strokeWidth=2;fontStyle=1;labelBackgroundColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="380" y="796" width="180" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="-TFDSmFTn0LMYcN3655R-7" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;fontStyle=1" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="-TFDSmFTn0LMYcN3655R-0" target="-TFDSmFTn0LMYcN3655R-1">
+        <mxCell id="-TFDSmFTn0LMYcN3655R-7" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;fontStyle=1;labelBackgroundColor=none;fontColor=default;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="-TFDSmFTn0LMYcN3655R-0" target="-TFDSmFTn0LMYcN3655R-1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="-TFDSmFTn0LMYcN3655R-8" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;fontStyle=1" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="-TFDSmFTn0LMYcN3655R-1" target="-TFDSmFTn0LMYcN3655R-2">
+        <mxCell id="-TFDSmFTn0LMYcN3655R-8" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;fontStyle=1;labelBackgroundColor=none;fontColor=default;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="-TFDSmFTn0LMYcN3655R-1" target="-TFDSmFTn0LMYcN3655R-2">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="-TFDSmFTn0LMYcN3655R-9" value="Yes" style="curved=1;startArrow=none;endArrow=block;exitX=0.04;exitY=1;entryX=0.5;entryY=-0.01;rounded=0;fontStyle=1" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="-TFDSmFTn0LMYcN3655R-2" target="-TFDSmFTn0LMYcN3655R-3">
+        <mxCell id="-TFDSmFTn0LMYcN3655R-9" value="Yes" style="curved=1;startArrow=none;endArrow=block;exitX=0.04;exitY=1;entryX=0.5;entryY=-0.01;rounded=0;fontStyle=1;labelBackgroundColor=none;fontColor=default;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="-TFDSmFTn0LMYcN3655R-2" target="-TFDSmFTn0LMYcN3655R-3">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="300" y="579" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="-TFDSmFTn0LMYcN3655R-10" value="No" style="curved=1;startArrow=none;endArrow=block;exitX=0.95;exitY=1;entryX=0.5;entryY=-0.01;rounded=0;fontStyle=1" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="-TFDSmFTn0LMYcN3655R-2" target="-TFDSmFTn0LMYcN3655R-4">
+        <mxCell id="-TFDSmFTn0LMYcN3655R-10" value="No" style="curved=1;startArrow=none;endArrow=block;exitX=0.95;exitY=1;entryX=0.5;entryY=-0.01;rounded=0;fontStyle=1;labelBackgroundColor=none;fontColor=default;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="-TFDSmFTn0LMYcN3655R-2" target="-TFDSmFTn0LMYcN3655R-4">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="470" y="579" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="-TFDSmFTn0LMYcN3655R-11" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;fontStyle=1" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="-TFDSmFTn0LMYcN3655R-4" target="-TFDSmFTn0LMYcN3655R-5">
+        <mxCell id="-TFDSmFTn0LMYcN3655R-11" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;fontStyle=1;labelBackgroundColor=none;fontColor=default;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="-TFDSmFTn0LMYcN3655R-4" target="-TFDSmFTn0LMYcN3655R-5">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="-TFDSmFTn0LMYcN3655R-12" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;fontStyle=1" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="-TFDSmFTn0LMYcN3655R-5" target="-TFDSmFTn0LMYcN3655R-6">
+        <mxCell id="-TFDSmFTn0LMYcN3655R-12" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;fontStyle=1;labelBackgroundColor=none;fontColor=default;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="-TFDSmFTn0LMYcN3655R-5" target="-TFDSmFTn0LMYcN3655R-6">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
