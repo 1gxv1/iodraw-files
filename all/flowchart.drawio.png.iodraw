@@ -14,16 +14,16 @@
           <mxGeometry x="329" y="430" width="111" height="90" as="geometry" />
         </mxCell>
         <mxCell id="-TFDSmFTn0LMYcN3655R-3" value="保留顶点" style="whiteSpace=wrap;strokeWidth=2;fontStyle=1;labelBackgroundColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="240" y="616" width="120" height="40" as="geometry" />
+          <mxGeometry x="240" y="585" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="-TFDSmFTn0LMYcN3655R-4" value="移除顶点" style="whiteSpace=wrap;strokeWidth=2;fontStyle=1;labelBackgroundColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="410" y="616" width="120" height="40" as="geometry" />
+          <mxGeometry x="410" y="585" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="-TFDSmFTn0LMYcN3655R-5" value="空洞三角化" style="whiteSpace=wrap;strokeWidth=2;fontStyle=1;labelBackgroundColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="410" y="706" width="120" height="40" as="geometry" />
+          <mxGeometry x="410" y="675" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="-TFDSmFTn0LMYcN3655R-6" value="输出: 简化曲面" style="whiteSpace=wrap;strokeWidth=2;fontStyle=1;labelBackgroundColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="380" y="796" width="180" height="40" as="geometry" />
+          <mxGeometry x="380" y="765" width="180" height="40" as="geometry" />
         </mxCell>
         <mxCell id="-TFDSmFTn0LMYcN3655R-7" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;fontStyle=1;labelBackgroundColor=none;fontColor=default;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="-TFDSmFTn0LMYcN3655R-0" target="-TFDSmFTn0LMYcN3655R-1">
           <mxGeometry relative="1" as="geometry">
