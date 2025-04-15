@@ -4,7 +4,7 @@
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
-        <mxCell id="-TFDSmFTn0LMYcN3655R-0" value="输入: 三角面网格" style="whiteSpace=wrap;strokeWidth=2;fontStyle=1" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="-TFDSmFTn0LMYcN3655R-0" value="输入: 三角面网格" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="295" y="250" width="180" height="40" as="geometry" />
         </mxCell>
         <mxCell id="-TFDSmFTn0LMYcN3655R-1" value="计算顶点平均曲率hi" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
