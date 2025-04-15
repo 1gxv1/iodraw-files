@@ -31,10 +31,10 @@
           <mxGeometry x="125" y="400" width="167" height="40" as="geometry" />
         </mxCell>
         <mxCell id="otWCKnDGwtSYOVDqnlZQ-209" value="进行相关操作" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=3;fillColor=#ffffff;fontSize=17;fontColor=#000000;" parent="1" vertex="1">
-          <mxGeometry x="142" y="494" width="135" height="58" as="geometry" />
+          <mxGeometry x="402.5" y="534" width="135" height="58" as="geometry" />
         </mxCell>
         <mxCell id="otWCKnDGwtSYOVDqnlZQ-210" value="结束" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=3;fillColor=#ffffff;fontSize=17;fontColor=#000000;" parent="1" vertex="1">
-          <mxGeometry x="150" y="592" width="109" height="45" as="geometry" />
+          <mxGeometry x="415.5" y="640" width="109" height="45" as="geometry" />
         </mxCell>
         <mxCell id="otWCKnDGwtSYOVDqnlZQ-211" value="" style="endArrow=classic;html=1;strokeColor=#000000;strokeWidth=2;fontSize=17;fontColor=#000000;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -75,18 +75,6 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="208" y="229" as="sourcePoint" />
             <mxPoint x="208" y="275" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="otWCKnDGwtSYOVDqnlZQ-226" value="" style="endArrow=classic;html=1;strokeColor=#000000;strokeWidth=2;fontSize=17;fontColor=#000000;entryX=0.514;entryY=0.005;entryPerimeter=0;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="516" y="516" as="sourcePoint" />
-            <mxPoint x="516.4285714285713" y="565.2857142857143" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="otWCKnDGwtSYOVDqnlZQ-227" value="" style="endArrow=classic;html=1;strokeColor=#000000;strokeWidth=2;fontSize=17;fontColor=#000000;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="515" y="636" as="sourcePoint" />
-            <mxPoint x="516" y="667" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="YRgW--KH2QpF0dIRQ5xJ-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YRgW--KH2QpF0dIRQ5xJ-2" target="YRgW--KH2QpF0dIRQ5xJ-6">
