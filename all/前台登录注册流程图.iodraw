@@ -45,12 +45,6 @@
             <mxPoint x="213" y="170" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="otWCKnDGwtSYOVDqnlZQ-213" value="" style="endArrow=classic;html=1;strokeColor=#000000;strokeWidth=2;fontSize=17;fontColor=#000000;entryX=0.514;entryY=0.005;entryPerimeter=0;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="518" y="306" as="sourcePoint" />
-            <mxPoint x="518.3800000000001" y="355.345" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="otWCKnDGwtSYOVDqnlZQ-214" value="" style="endArrow=classic;html=1;strokeColor=#000000;strokeWidth=2;fontSize=17;fontColor=#000000;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="207" y="347" as="sourcePoint" />
@@ -74,12 +68,6 @@
             <mxPoint x="208" y="592" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="otWCKnDGwtSYOVDqnlZQ-220" value="输入邮箱验证码" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=3;fillColor=#ffffff;fontSize=17;fontColor=#000000;" parent="1" vertex="1">
-          <mxGeometry x="432" y="476" width="167" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="otWCKnDGwtSYOVDqnlZQ-221" value="验证是否正确？" style="rhombus;whiteSpace=wrap;html=1;rounded=0;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=3;fillColor=#ffffff;fontSize=17;fontColor=#000000;" parent="1" vertex="1">
-          <mxGeometry x="431" y="566" width="170" height="69" as="geometry" />
-        </mxCell>
         <mxCell id="otWCKnDGwtSYOVDqnlZQ-222" value="插入数据库" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=3;fillColor=#ffffff;fontSize=17;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="450" y="666" width="142" height="63" as="geometry" />
         </mxCell>
@@ -87,18 +75,6 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="208" y="229" as="sourcePoint" />
             <mxPoint x="208" y="275" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="otWCKnDGwtSYOVDqnlZQ-224" value="" style="endArrow=classic;html=1;strokeColor=#000000;strokeWidth=2;fontSize=17;fontColor=#000000;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="515" y="218" as="sourcePoint" />
-            <mxPoint x="516" y="259" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="otWCKnDGwtSYOVDqnlZQ-225" value="" style="endArrow=classic;html=1;strokeColor=#000000;strokeWidth=2;fontSize=17;fontColor=#000000;entryX=0.514;entryY=0.005;entryPerimeter=0;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="517" y="426" as="sourcePoint" />
-            <mxPoint x="517.4285714285713" y="475.28571428571433" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="otWCKnDGwtSYOVDqnlZQ-226" value="" style="endArrow=classic;html=1;strokeColor=#000000;strokeWidth=2;fontSize=17;fontColor=#000000;entryX=0.514;entryY=0.005;entryPerimeter=0;" parent="1" edge="1">
@@ -124,19 +100,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="otWCKnDGwtSYOVDqnlZQ-232" value="" style="endArrow=none;html=1;strokeColor=#000000;strokeWidth=2;fontSize=17;fontColor=#000000;exitX=0;exitY=0.455;exitPerimeter=0;edgeStyle=orthogonalEdgeStyle;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="431" y="386.395" as="sourcePoint" />
-            <mxPoint x="514" y="231" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="431" y="393" />
-              <mxPoint x="414" y="393" />
-              <mxPoint x="414" y="231" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="YRgW--KH2QpF0dIRQ5xJ-2" value="顶点数量是否一致？" style="rhombus;whiteSpace=wrap;html=1;rounded=0;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=3;fillColor=#ffffff;fontSize=17;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="372" y="276" width="170" height="69" as="geometry" />
+          <mxGeometry x="390" y="276" width="170" height="69" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
