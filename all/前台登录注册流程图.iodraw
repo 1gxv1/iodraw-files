@@ -71,9 +71,6 @@
             <mxPoint x="208" y="592" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="otWCKnDGwtSYOVDqnlZQ-222" value="插入数据库" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=3;fillColor=#ffffff;fontSize=17;fontColor=#000000;" parent="1" vertex="1">
-          <mxGeometry x="450" y="666" width="142" height="63" as="geometry" />
-        </mxCell>
         <mxCell id="otWCKnDGwtSYOVDqnlZQ-223" value="" style="endArrow=classic;html=1;strokeColor=#000000;strokeWidth=2;fontSize=17;fontColor=#000000;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="208" y="229" as="sourcePoint" />
@@ -92,17 +89,6 @@
             <mxPoint x="516" y="667" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="otWCKnDGwtSYOVDqnlZQ-230" value="" style="endArrow=none;html=1;strokeColor=#000000;strokeWidth=2;fontSize=17;fontColor=#000000;exitX=1.023;exitY=0.378;exitPerimeter=0;entryX=0.494;entryY=1.03;entryPerimeter=0;edgeStyle=orthogonalEdgeStyle;" parent="1" source="otWCKnDGwtSYOVDqnlZQ-204" target="otWCKnDGwtSYOVDqnlZQ-222" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="645" y="256" as="sourcePoint" />
-            <mxPoint x="695" y="206" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="655" y="33" />
-              <mxPoint x="655" y="681" />
-              <mxPoint x="526" y="681" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="YRgW--KH2QpF0dIRQ5xJ-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YRgW--KH2QpF0dIRQ5xJ-2" target="YRgW--KH2QpF0dIRQ5xJ-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -114,7 +100,7 @@
         <mxCell id="YRgW--KH2QpF0dIRQ5xJ-2" value="顶点数量是否一致？" style="rhombus;whiteSpace=wrap;html=1;rounded=0;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=3;fillColor=#ffffff;fontSize=17;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="380" y="260" width="180" height="85" as="geometry" />
         </mxCell>
-        <mxCell id="YRgW--KH2QpF0dIRQ5xJ-6" value="" style="whiteSpace=wrap;html=1;fontSize=17;fillColor=#ffffff;strokeColor=#000000;fontColor=#000000;rounded=0;labelBackgroundColor=none;strokeWidth=3;" vertex="1" parent="1">
+        <mxCell id="YRgW--KH2QpF0dIRQ5xJ-6" value="局部参数化" style="whiteSpace=wrap;html=1;fontSize=17;fillColor=#ffffff;strokeColor=#000000;fontColor=#000000;rounded=0;labelBackgroundColor=none;strokeWidth=3;" vertex="1" parent="1">
           <mxGeometry x="410" y="390" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
