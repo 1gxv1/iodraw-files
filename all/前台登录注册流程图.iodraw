@@ -97,16 +97,6 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="YRgW--KH2QpF0dIRQ5xJ-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="YRgW--KH2QpF0dIRQ5xJ-2">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="620" y="303" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="YRgW--KH2QpF0dIRQ5xJ-12" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="YRgW--KH2QpF0dIRQ5xJ-11">
-          <mxGeometry x="0.2673" y="-1" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="YRgW--KH2QpF0dIRQ5xJ-2" value="顶点数量是否一致？" style="rhombus;whiteSpace=wrap;html=1;rounded=0;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=3;fillColor=#ffffff;fontSize=17;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="380" y="260" width="180" height="85" as="geometry" />
         </mxCell>
