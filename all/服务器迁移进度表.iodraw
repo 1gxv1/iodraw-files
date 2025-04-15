@@ -16,7 +16,7 @@
         <mxCell id="ELuROfRh7jPEYIWg2EeA-811" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.drop;fontSize=18;align=center;flipV=1;strokeWidth=3;" parent="ELuROfRh7jPEYIWg2EeA-810" vertex="1">
           <mxGeometry width="70" height="85" as="geometry" />
         </mxCell>
-        <mxCell id="ELuROfRh7jPEYIWg2EeA-812" value="数据同步" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=18;align=center;" parent="ELuROfRh7jPEYIWg2EeA-810" vertex="1">
+        <mxCell id="ELuROfRh7jPEYIWg2EeA-812" value="点击事件" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=18;align=center;" parent="ELuROfRh7jPEYIWg2EeA-810" vertex="1">
           <mxGeometry x="7.5" y="7" width="55" height="55" as="geometry" />
         </mxCell>
         <mxCell id="ELuROfRh7jPEYIWg2EeA-813" value="" style="group;" parent="1" vertex="1" connectable="0">
