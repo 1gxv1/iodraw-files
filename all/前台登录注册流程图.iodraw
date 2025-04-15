@@ -16,7 +16,7 @@
         <mxCell id="otWCKnDGwtSYOVDqnlZQ-207" value="变化率&amp;lt;c?" style="rhombus;whiteSpace=wrap;html=1;rounded=0;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=3;fillColor=#ffffff;fontSize=17;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="122" y="276" width="170" height="69" as="geometry" />
         </mxCell>
-        <mxCell id="otWCKnDGwtSYOVDqnlZQ-208" value="登录成功进入主界面" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=3;fillColor=#ffffff;fontSize=17;fontColor=#000000;" parent="1" vertex="1">
+        <mxCell id="otWCKnDGwtSYOVDqnlZQ-208" value="替代上一次参数化结果" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=3;fillColor=#ffffff;fontSize=17;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="125" y="400" width="167" height="40" as="geometry" />
         </mxCell>
         <mxCell id="otWCKnDGwtSYOVDqnlZQ-209" value="进行相关操作" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=3;fillColor=#ffffff;fontSize=17;fontColor=#000000;" parent="1" vertex="1">
@@ -49,7 +49,7 @@
             <mxPoint x="207" y="399" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="YRgW--KH2QpF0dIRQ5xJ-1" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="otWCKnDGwtSYOVDqnlZQ-214">
+        <mxCell id="YRgW--KH2QpF0dIRQ5xJ-1" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="otWCKnDGwtSYOVDqnlZQ-214">
           <mxGeometry x="-0.1923" y="2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
