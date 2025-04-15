@@ -22,7 +22,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="otWCKnDGwtSYOVDqnlZQ-207" value="变化率&amp;lt;c?" style="rhombus;whiteSpace=wrap;html=1;rounded=0;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=3;fillColor=#ffffff;fontSize=17;fontColor=#000000;" parent="1" vertex="1">
-          <mxGeometry x="120" y="260" width="1780" height="85" as="geometry" />
+          <mxGeometry x="120" y="260" width="180" height="85" as="geometry" />
         </mxCell>
         <mxCell id="otWCKnDGwtSYOVDqnlZQ-208" value="替代上一次参数化结果" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=3;fillColor=#ffffff;fontSize=17;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="125" y="400" width="167" height="40" as="geometry" />
