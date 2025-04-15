@@ -104,11 +104,6 @@
         <mxCell id="YRgW--KH2QpF0dIRQ5xJ-6" value="局部参数化" style="whiteSpace=wrap;html=1;fontSize=17;fillColor=#ffffff;strokeColor=#000000;fontColor=#000000;rounded=0;labelBackgroundColor=none;strokeWidth=3;" vertex="1" parent="1">
           <mxGeometry x="410" y="390" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="YRgW--KH2QpF0dIRQ5xJ-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;" edge="1" parent="1" target="YRgW--KH2QpF0dIRQ5xJ-18">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="740" y="342.5" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="YRgW--KH2QpF0dIRQ5xJ-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeWidth=2;" edge="1" parent="1" source="YRgW--KH2QpF0dIRQ5xJ-18">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="470" y="530" as="targetPoint" />
