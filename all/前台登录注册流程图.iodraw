@@ -99,7 +99,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="YRgW--KH2QpF0dIRQ5xJ-6" value="局部参数化" style="whiteSpace=wrap;html=1;fontSize=17;fillColor=#ffffff;strokeColor=#000000;fontColor=#000000;rounded=0;labelBackgroundColor=none;strokeWidth=3;" vertex="1" parent="1">
-          <mxGeometry x="350" y="390" width="167" height="60" as="geometry" />
+          <mxGeometry x="326.5" y="397" width="167" height="60" as="geometry" />
         </mxCell>
         <mxCell id="YRgW--KH2QpF0dIRQ5xJ-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeWidth=2;" edge="1" parent="1" source="YRgW--KH2QpF0dIRQ5xJ-18">
           <mxGeometry relative="1" as="geometry">
