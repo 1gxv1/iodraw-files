@@ -31,6 +31,9 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="a_Ui4H-3aTAs2_uNVlsI-9" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
