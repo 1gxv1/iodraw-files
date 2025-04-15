@@ -11,7 +11,7 @@
           <mxGeometry x="40" y="359" width="222" height="49" as="geometry" />
         </mxCell>
         <mxCell id="a_Ui4H-3aTAs2_uNVlsI-2" value="基于曲率的曲面简化" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="312" y="359" width="206" height="49" as="geometry" />
+          <mxGeometry x="312" y="260" width="168" height="148" as="geometry" />
         </mxCell>
         <mxCell id="a_Ui4H-3aTAs2_uNVlsI-3" value="基于重心映射的粗曲面参数化" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="568" y="350" width="254" height="67" as="geometry" />
