@@ -5,10 +5,10 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="otWCKnDGwtSYOVDqnlZQ-204" value="开始" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=3;fillColor=#ffffff;fontSize=17;fontColor=#000000;" parent="1" vertex="1">
-          <mxGeometry x="98" y="20" width="109" height="45" as="geometry" />
+          <mxGeometry x="90" y="20" width="109" height="45" as="geometry" />
         </mxCell>
         <mxCell id="otWCKnDGwtSYOVDqnlZQ-205" value="输入三角网格" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=3;fillColor=#ffffff;fontSize=17;fontColor=#000000;" parent="1" vertex="1">
-          <mxGeometry x="85" y="97" width="119" height="45" as="geometry" />
+          <mxGeometry x="85" y="97" width="167" height="45" as="geometry" />
         </mxCell>
         <mxCell id="otWCKnDGwtSYOVDqnlZQ-206" value="计算当前曲面和上一曲面的变化率" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=3;fillColor=#ffffff;fontSize=17;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="61" y="175" width="167" height="57" as="geometry" />
