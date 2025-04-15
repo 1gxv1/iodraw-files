@@ -10,7 +10,7 @@
         <mxCell id="otWCKnDGwtSYOVDqnlZQ-205" value="输入三角网格" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=3;fillColor=#ffffff;fontSize=17;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="65" y="97" width="167" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="YRgW--KH2QpF0dIRQ5xJ-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="otWCKnDGwtSYOVDqnlZQ-206" target="otWCKnDGwtSYOVDqnlZQ-207">
+        <mxCell id="YRgW--KH2QpF0dIRQ5xJ-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="otWCKnDGwtSYOVDqnlZQ-206" target="otWCKnDGwtSYOVDqnlZQ-207">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="otWCKnDGwtSYOVDqnlZQ-206" value="计算当前曲面和上一曲面的变化率" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=3;fillColor=#ffffff;fontSize=17;fontColor=#000000;" parent="1" vertex="1">
