@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0" version="24.7.17">
   <diagram id="B84BwX8f5jPIFRjjb620" name="Page-1">
-    <mxGraphModel dx="996" dy="747" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1386" dy="747" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -31,10 +31,10 @@
         <mxCell id="ELuROfRh7jPEYIWg2EeA-831" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;调用MarchingCube算法生成三角面网格&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=3;fontSize=14;align=center;arcSize=3;" parent="1" vertex="1">
           <mxGeometry x="201" y="300" width="130" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="ELuROfRh7jPEYIWg2EeA-832" value="基于动态曲面检测的曲面参数化参数化网格" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=3;fontSize=14;align=center;arcSize=3;" parent="1" vertex="1">
+        <mxCell id="ELuROfRh7jPEYIWg2EeA-832" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;基于动态曲面检测的曲面参数化参数化网格&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=3;fontSize=14;align=center;arcSize=3;" parent="1" vertex="1">
           <mxGeometry x="352" y="300" width="130" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="ELuROfRh7jPEYIWg2EeA-833" value="建立纹理与参数化网格的映射关系" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=3;fontSize=14;align=center;arcSize=3;" parent="1" vertex="1">
+        <mxCell id="ELuROfRh7jPEYIWg2EeA-833" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;建立纹理与参数化网格的映射关系&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=3;fontSize=14;align=center;arcSize=3;" parent="1" vertex="1">
           <mxGeometry x="503" y="300" width="130" height="110" as="geometry" />
         </mxCell>
         <mxCell id="ELuROfRh7jPEYIWg2EeA-834" value="threejs实现贴图" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=3;fontSize=14;align=center;arcSize=3;" parent="1" vertex="1">
