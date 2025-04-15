@@ -8,7 +8,7 @@
           <mxGeometry x="295.5" y="350" width="180" height="40" as="geometry" />
         </mxCell>
         <mxCell id="-TFDSmFTn0LMYcN3655R-1" value="计算顶点平均曲率hi" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="285.5" y="430" width="200" height="40" as="geometry" />
+          <mxGeometry x="285.5" y="440" width="200" height="40" as="geometry" />
         </mxCell>
         <mxCell id="-TFDSmFTn0LMYcN3655R-2" value="曲率hi&gt;c?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="329" y="530" width="113" height="83" as="geometry" />
